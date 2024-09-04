@@ -1,7 +1,6 @@
 # Trabajo1_Alfredo
-## Trabajo 1 - Curso Herramientas Estadísticas 2
+## Trabajo 1 - Estadística 2
 
-# Casos Dengue
 
 ## Descripción de las Variables
 
