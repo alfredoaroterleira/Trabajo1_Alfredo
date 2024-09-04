@@ -7,34 +7,16 @@
 
 | *Variable*         | *Descripción*                                                                                         |
 |----------------------|---------------------------------------------------------------------------------------------------------|
-| *departamento*  | Departamento donde reside la persona confirmada como caso positivo de COVID-19                           |
-| *provincia*     | Provincia donde reside la persona confirmada como caso positivo de COVID-19                              |
-| *distrito*      | Distrito donde reside la persona confirmada como caso positivo de COVID-19                               |
-| *ano*      | Año en el que se reportó el caso                                          |
-| *semana*        | Semana del año del resultado de la prueba COVID-19     |
-| *edad*          | Edad del paciente con dengue                                              |
-| *sexo*          | Sexo del paciente con dengue                                              |
-| *enfermedad* | Nivel en el que se encuentra el paciente                                                         |
-| *case*        | Semana del año del resultado de la prueba COVID-19     |
+| *Ubigeo*  | Siglas oficiales para código de ubicación geográfica                           |
+| *Departamento*  | Departamento donde reside la persona confirmada como caso positivo de COVID-19                           |
+| *Provincia*     | Provincia donde reside la persona confirmada como caso positivo de COVID-19                              |
+| *Distrito*      | Distrito donde reside la persona confirmada como caso positivo de COVID-19                               |
+| *PEA_ocupada*      | Población económica activa desocupada                                         |
+| *poblacion*        | Población total    |
+| *educacion*          | Promedios de años de estudios de la población entre 15 años a más                                              |
+| *bibliotecas*          | Existencia de una biblioteca en la municipalidad                                            |
+| *instituciones* | Cantidad de instituciones educativas públicas                                                        |
+| *hoagres_dependencia*        | Porcentaje de hogares con alta dependencia económica     |
+| *plan_familiar*        | Implementación de programa de control de planificación familiar      |
 
 
-
-
-# Casos Positivos de COVID-19
-
-## Descripción de las Variables
-
-| *Variable*         | *Descripción*                                                                                         |
-|----------------------|---------------------------------------------------------------------------------------------------------|
-| *FECHA_CORTE*   | Fecha de corte de información                                                                            |
-| *DEPARTAMENTO*  | Departamento donde reside la persona confirmada como caso positivo de COVID-19                           |
-| *PROVINCIA*     | Provincia donde reside la persona confirmada como caso positivo de COVID-19                              |
-| *DISTRITO*      | Distrito donde reside la persona confirmada como caso positivo de COVID-19                               |
-| *METODODX*      | Método de laboratorio al que es sometida una prueba de COVID-19                                           |
-| *EDAD*          | Edad de la persona confirmada como caso positivo de COVID-19                                              |
-| *SEXO*          | Sexo de la persona confirmada como caso positivo de COVID-19                                              |
-| *FECHA_RESULTADO* | Fecha del resultado de la prueba de COVID-19                                                          |
-| *Semana*        | Semana del año del resultado de la prueba COVID-19     |
-
-# Resultados
-https://trabajo1alfredo.s3.us-east-2.amazonaws.com/Trabajo1_Alfredo.html
